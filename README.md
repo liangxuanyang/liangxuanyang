@@ -15,6 +15,8 @@
 [![AI Coding](https://img.shields.io/badge/-AI_Coding-FF6F00?logo=github-copilot&logoColor=white&style=flat)]()
 [![VS Code Plugin](https://img.shields.io/badge/-VSCode_Plugin-007ACC?logo=visual-studio-code&logoColor=white&style=flat)]()
 [![CLI Tool](https://img.shields.io/badge/-AI_CLI_Tool-555555?logo=terminal&logoColor=white&style=flat)]()
+[![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white&style=flat)]()
+[![WSL2](https://img.shields.io/badge/-WSL2-0078D6?logo=linux&logoColor=white&style=flat)]()
 
   <br/><br/>
 </div>
