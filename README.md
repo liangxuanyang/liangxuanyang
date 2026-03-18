@@ -1,6 +1,6 @@
 <div align="center">
-  <h2>Hi 👋</h2>
-  <h3>Frontend Developer | AI-Augmented Coder</h3>
+  <h4>Hi 👋</h2>
+  <h4>Frontend Developer | AI-Augmented Coder</h3>
 
   <br/>
 
