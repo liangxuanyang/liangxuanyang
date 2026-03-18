@@ -17,6 +17,10 @@
 [![CLI Tool](https://img.shields.io/badge/-AI_CLI_Tool-555555?logo=terminal&logoColor=white&style=flat)]()
 [![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white&style=flat)]()
 [![WSL2](https://img.shields.io/badge/-WSL2-0078D6?logo=linux&logoColor=white&style=flat)]()
+[![LLM](https://img.shields.io/badge/-LLM-5A5AFA?logo=deepmind&logoColor=white&style=flat)]()
+[![Prompt Engineering](https://img.shields.io/badge/-Prompt_Engineering-8A2BE2?logo=github&logoColor=white&style=flat)]()
+[![AI Agent](https://img.shields.io/badge/-AI_Agent-FF4500?logo=robot&logoColor=white&style=flat)]()
+[![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions&logoColor=white&style=flat)]()
 
   <br/><br/>
 </div>
