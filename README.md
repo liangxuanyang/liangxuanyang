@@ -20,8 +20,6 @@
 
   <!-- 开发工具 & 编辑器 -->
   [![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)]()
-
- 
   <br/><br/>
 
   <!-- AI 能力 -->
