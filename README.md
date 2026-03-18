@@ -1,18 +1,8 @@
 
 
-<h1 align="center">Hi 👋, I'm xuanyang</h1>
-<h3 align="center">Frontend Developer | AI-Augmented Coder | Full-Stack Enthusiast</h3>
+<h2 align="center">Hi 👋</h1>
+<h3 align="center">Frontend Developer | AI-Augmented Coder </h3>
 
-<p align="center">
-  <a href="https://github.com/liangxuanyang?tab=repositories">
-    <img src="https://img.shields.io/github/repo-count/liangxuanyang?color=blue&logo=github" alt="Repos" />
-  </a>
-  <a href="https://github.com/liangxuanyang?tab=followers">
-    <img src="https://img.shields.io/github/followers/liangxuanyang?style=social" alt="Followers" />
-  </a>
-</p>
-
----
 
 ### 🛠️ 技术栈
 
@@ -37,8 +27,3 @@
 
 ---
 
-<!-- 可选：添加 GitHub 统计卡片 -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=liangxuanyang&show_icons=true&theme=radical&count_private=true" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liangxuanyang&layout=compact&theme=radical" alt="top langs" />
-</p>
