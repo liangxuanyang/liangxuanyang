@@ -19,39 +19,40 @@
   <br/><br/>
 </div>
 
----
+
 
 ### 🛠️ 技术栈
 
 <table>
-  <tr>
-    <td valign="top" width="50%">
-      <b>🌐 前端</b><br/>
-      React · Vue · TypeScript<br/>
-      HTML5 · CSS3 (Sass / Tailwind)
-    </td>
-    <td valign="top" width="50%">
-      <b>⚙️ 后端 & 工具链</b><br/>
-      Node.js · Express<br/>
-      自研 AI CLI 工具
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <b>🚀 DevOps & 部署</b><br/>
-      Docker · 阿里云 ECS/OSS · WSL2
-    </td>
-    <td valign="top">
-      <b>🧠 AI Coding</b><br/>
-      深度使用 Cursor / Qoder<br/>
-      开发过 <b>AI 增强型 VS Code 插件</b>
-    </td>
-  </tr>
+  <thead>
+    <tr>
+      <th align="left">🧩 领域</th>
+      <th align="left">🛠️ 技术与实践</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>🌐 前端开发</b></td>
+      <td>React · Vue · TypeScript<br/>HTML5 · CSS3 (Sass / Tailwind CSS)</td>
+    </tr>
+    <tr>
+      <td><b>⚙️ 后端 & 工具链</b></td>
+      <td>Node.js · Express<br/><b>自研 AI CLI 工具</b>（智能代码生成/调试辅助）</td>
+    </tr>
+    <tr>
+      <td><b>🐳 DevOps & 部署</b></td>
+      <td>Docker 容器化 · 阿里云 ECS/OSS · WSL2 开发环境</td>
+    </tr>
+    <tr>
+      <td><b>🤖 AI Coding</b></td>
+      <td>深度使用 Cursor / Qoder<br/><b>开发过 AI 增强型 VS Code 插件</b>（提升编码效率）</td>
+    </tr>
+  </tbody>
 </table>
 
-- **💻 开发体验**：VS Code（高度定制）｜Git｜pnpm/yarn｜终端流工作法
+<br/>
 
----
+- **💻 开发体验**：VS Code（高度定制）｜Git｜pnpm/yarn｜终端流工作法 💻
 
 ### 🚀 当前聚焦
 
@@ -61,6 +62,6 @@
 > 💡 **探索下一代编程范式**  
 > 融合 **AI + Terminal + IDE**，打造高效、可解释、可协作的智能编码环境
 
----
+
 
 
